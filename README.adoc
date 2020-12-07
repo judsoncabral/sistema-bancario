@@ -42,7 +42,7 @@ Alguns conceitos relacionados a testes de software são mostrados nas apresenta�
 
 [IMPORTANT]
 ====
-O relatório de cobertura de código do JaCoCo **NÃO é gerado** se existir algum espaço em qualquer lugar no caminho completo da pasta onde você salvou o projeto. Por exemplo, se o projeto estiver em: 
+O relatório de cobertura de código do JaCoCo **NÃO é gerado** se existir algum espaço em qualquer lugar no caminho completo da pasta onde você salvou o projeto. Por exemplo, se o projeto estiver em; 
 
 `/home/usuario/meus projetos/projeto incrível` 
 
